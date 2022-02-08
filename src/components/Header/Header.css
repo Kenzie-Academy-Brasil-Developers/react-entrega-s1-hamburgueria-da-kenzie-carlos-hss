@@ -37,6 +37,10 @@ header {
     color: #E0E0E0;
 }
 
+.div-input:focus-within {
+    border: 2px solid #333333;
+}
+
 .input-button {
     display: flex;
     justify-content: center;
